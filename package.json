@@ -1,7 +1,7 @@
 {
   "name": "tcomb-update-path",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Update a tcomb object at a path",
   "license": "MIT",
   "repository": "ajoslin/tcomb-update-path",
