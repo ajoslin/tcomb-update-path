@@ -25,5 +25,9 @@
   "files": [
     "index.js",
     "test.js"
-  ]
+  ],
+  "dependencies": {
+    "dot-prop": "~4.1.0",
+    "tcomb": "*"
+  }
 }
